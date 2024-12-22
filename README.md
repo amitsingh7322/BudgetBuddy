@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,3 +78,7 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# BudgetBuddy
+A smart app to manage trip expenses, track spending, and keep records of past trips. Use past trip insights to prepare budgets for future journeys, ensuring better financial planning and hassle-free travel. Perfect for organizing and optimizing your travel spending!
+>>>>>>> 211915139d6de19c13bc806772ffc44a745da09a
